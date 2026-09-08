@@ -1,5 +1,5 @@
 homepage: "https://leancookieconsent.com"
 documentation: "https://leancookieconsent.com/guide.html"
 versions:
-  - sha: ceaddb06bd138a4bea90f72f1d3fa6fb4a477d82
+  - sha: 2cf1a1c5d3fe1004707e7dcb03b3a0615e073618
     changeNotes: Initial Lean Cookie Consent GTM template with GTM sandbox compatibility fix.
